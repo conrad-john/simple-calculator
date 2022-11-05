@@ -13,3 +13,6 @@ D:\Code\C# Tutorials\simple-calculator\Calculator\Calculator\obj\Debug\net6.0\re
 D:\Code\C# Tutorials\simple-calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
 D:\Code\C# Tutorials\simple-calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
 D:\Code\C# Tutorials\simple-calculator\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+D:\Code\C# Tutorials\simple-calculator\Calculator\Calculator\bin\Debug\net6.0\CalculatorLibrary.dll
+D:\Code\C# Tutorials\simple-calculator\Calculator\Calculator\bin\Debug\net6.0\CalculatorLibrary.pdb
+D:\Code\C# Tutorials\simple-calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CopyComplete
